@@ -1,4 +1,5 @@
 public class Lab {
+    
     /**
      * TODO: return the combination of two Strings.
      * You can combine two strings using the '+' operator.
@@ -10,5 +11,6 @@ public class Lab {
      */
     public String combine(String a, String b){
         return a+b;
+
     }
 }
